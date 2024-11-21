@@ -43,7 +43,7 @@ export default function App({ Component, pageProps }: any) {
         />
         <meta property="og:image" content="/favicon.svg" />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://yourwebsite.com" />
+        <meta property="og:url" content="https://www.paryndesign.cz/" />
         <link rel="shortcut icon" href="/favicon.svg" />
         <link rel="apple-touch-icon" href="/favicon.svg" />
       </Head>
