@@ -37,6 +37,7 @@ export default function App({ Component, pageProps }: any) {
           property="og:title"
           content="Paryn Design | Kreativní služby pro Vaši značku"
         />
+        <meta property="og:site_name" content="Paryn Design" />
         <meta
           property="og:description"
           content="Specializuji se na brand identitu, logotvorbu, webové stránky, tiskoviny a další kreativní služby, které dodají vaší značce nový rozměr."
