@@ -42,7 +42,10 @@ export default function App({ Component, pageProps }: any) {
           property="og:description"
           content="Specializuji se na brand identitu, logotvorbu, webové stránky, tiskoviny a další kreativní služby, které dodají vaší značce nový rozměr."
         />
-        <meta property="og:image" content="/favicon.svg" />
+        <meta
+          property="og:image"
+          content="/paryn_design_banner_odkaz_socky.webp"
+        />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.paryndesign.cz/" />
         <link rel="shortcut icon" href="/favicon.svg" />

@@ -248,7 +248,7 @@ export default function IndexPage() {
       <Stack>
         <Text ta="center" fz={20} id="thanks">
           Děkuji za pochopení
-          <br />a budu se těšit na další spolupráci.
+          <br />a budu se těšit na možnou spolupráci.
         </Text>
 
         <Flex gap={24} align="center" justify="center" wrap="wrap" id="socials">
