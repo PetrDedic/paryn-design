@@ -44,7 +44,7 @@ export default function App({ Component, pageProps }: any) {
         />
         <meta
           property="og:image"
-          content="/paryn_design_banner_odkaz_socky.webp"
+          content="/Fotky/paryn_design_banner_odkaz_socky.webp"
         />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.paryndesign.cz/" />
