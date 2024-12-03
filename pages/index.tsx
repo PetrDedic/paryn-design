@@ -92,7 +92,7 @@ export default function IndexPage() {
             abych vaší značce dodal nový rozměr...
           </Title>
           <Text c="#ef1224" fz={20}>
-            Vzhled, ketrý mluví za Vás.
+            Vzhled, který mluví za Vás.
           </Text>
         </Stack>
       </Stack>
